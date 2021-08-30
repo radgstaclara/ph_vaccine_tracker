@@ -1,0 +1,5 @@
+matplotlib==3.3.4
+streamlit==0.81.1
+pandas==1.2.4
+pystan==2.19.1.1
+prophet==0.7.1
