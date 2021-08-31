@@ -1,4 +1,4 @@
 matplotlib==3.3.4
 streamlit==0.81.1
 pandas==1.2.4
-prophet==1.0.1
+statsmodels==0.12.2
