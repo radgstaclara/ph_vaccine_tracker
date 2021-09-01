@@ -1,1 +1,1 @@
-# ph_vaccine_tracker
+# Philippine vaccination tracker (source: Our World in Data)
